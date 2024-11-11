@@ -24,4 +24,4 @@ The CNN architecture includes:
 * Tested various improvements (e.g., adding batch normalization, dropout) to enhance accuracy and prevent overfitting.
   
 5. Comparative Analysis:
-Compared the CNN model’s performance with other models like ResNet18, discussing the impact of ResNet’s deeper layers and residual connections on accuracy and gradient flow.
+* Compared the CNN model’s performance with other models like ResNet18, discussing the impact of ResNet’s deeper layers and residual connections on accuracy and gradient flow.
